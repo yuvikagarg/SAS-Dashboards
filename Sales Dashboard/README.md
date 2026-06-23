@@ -51,7 +51,8 @@ The project integrates customer, order, invoice, payment, shipment, product, loy
 
 ### Sales Performance Dashboard
 
-![Sales Dashboard](images/sales_dashboard.png)
+![Sales Dashboard](DB1.png)
+![Sales Dashboard](DB2.png)
 
 ## Repository Structure
 
